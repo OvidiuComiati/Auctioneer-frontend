@@ -1,0 +1,12 @@
+.alert__list{
+    height:200;
+    overflow:hidden; 
+    overflow-y:scroll;
+    list-style-type:none;
+}
+.container{
+    display:"flex";
+    flex-direction:"column";
+    align-content: "center" ;
+    max-width: 50%;
+}
